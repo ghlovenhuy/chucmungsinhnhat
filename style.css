@@ -44,7 +44,7 @@ button:hover {
 /* Cuốn sách */
 .book {
   position: relative;
-  width: 500px;
+  width: 490px;
   height: 500px;
   perspective: 1000px;
   display: center;
@@ -76,4 +76,5 @@ button:hover {
   text-align: justify;
   transform: rotateY(180deg); /* ✅ Giúp chữ không bị ngược */
 }
+
 
